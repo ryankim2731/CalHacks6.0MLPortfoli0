@@ -7,16 +7,25 @@ class Stock:
 	def __init__(self):
 		self.needs_name = True
 		self.name = ""
+		self.symbol = ""
 		self.risk = []
 		self.growth = []
 		self.returns = []
 		self.multiple = []
 		self.factor = []
+		self.price = []
+		self.value = []
 
 	def add_risk(self, risk_val):
 		self.risk.append(risk_val)
 
 
+	def add_value(self, value):
+		self.value.append(value)
+	def set_sybol(self, symbol):
+		self.symbol = symbol
+	def add_price(self, price):
+		self.price.append(price)
 	def rename(self, name):
 		self.name = name
 	def add_growth(self, growth_val):
@@ -34,18 +43,18 @@ class Stock:
 		add_factor(factor_val)		
 
 yeet = open('C:/Users/User/Desktop/Hackathons/CalHacks6.0/CalHacks6.0MLPortfoli0-master/data_raw.txt', 'r')
-identifiers = ["gsid", "assetId", "financialReturnsScore", "growthScore", "multipleScore", "integratedScore", "updateTime", "assetName", "date"]
+identifiers = ["gsid", "assetId", "financialReturnsScore", "growthScore", "multipleScore", "integratedScore", "updateTime", "assetName", "date", "close", "volume"]
 
 stocks = []
 
-current_line = (yeet.read().split())
+split_input = (yeet.read().split())
 
 cycle_count = 0
 line_count = 0
 stock_index = 0
 stock_name = ""
-for i in current_line:
-	print(i)
+for i in split_input:
+	#print(i)
 	if i in identifiers:
 		stock_name = ""
 		cycle_count = 0
@@ -76,14 +85,47 @@ for i in current_line:
 		cycle_count += 1
 		#sprint("cycle_count = "+ str(cycle_count))
 
+yonk = open('C:/Users/User/Desktop/Hackathons/CalHacks6.0/CalHacks6.0MLPortfoli0-master/hist_data_raw.txt', 'r')
+
+split_input = yonk.read().split()
+
+stock_index = -1
+cycle_count = 0
+for i in split_input:
+	if i in identifiers:
+		cycle_count = 0
+		pass
+	elif i[0:4] == "tick":
+		cycle_count = 0
+		pass
+	else:
+		if i == "2017-01-17":
+			stock_index += 1
+		if cycle_count % 3 == 2:
+			(stocks[stock_index]).add_value(i)
+	cycle_count += 1
 
 print()
 print()
 print("Number of stocks: " + str(len(stocks)))
 print()
 
+
+symbols = ["ccl", "ll", "ulta","chkp","mo","crm","RL","NTAP","GIB","MXIM","MA","TGT","AZO","BBY","LULU","TIF","NFLX", "TSLA", "STZ","VECO",
+"RCL","CBS.A","PG","ADTN","STX","GRPN","CMCSA","payx","gps","Flex","Flt","jnpr","tsco","bbby","hsy","ODP","GM","CLX","ODP","IPG",
+"APH","PVH", "ROST","PVH", "ADS", "Vmw","ROST","COST","FLIR","DKS","EXPE","KLAC","FSLR","ADS","KO","WMT","INFN","K","GPN","ARW","CNK","ADM",
+"SYMC","CL","KR","ADP","ZNGA","NTAP","DIS","ROST","TAP","INTU","AKAM","MGA","IBM","TJX",
+"KMB","FisV","GLW","WDC","CSOD","RCL","EBAY","GRMN","RL"]
+
+j = 0
 for i in stocks:
+	i.symbol = symbols[j]
+	j += 1
 	print(i.name)
+	print(i.symbol)
+	print("Value")
+	print(i.value)
+	"""
 	print("Growth")
 	print(i.growth)
 	print("Returns")
@@ -92,5 +134,12 @@ for i in stocks:
 	print(i.multiple)
 	print("Factor")
 	print(i.factor)
+	"""
+
 	print("-----------------\n")
+	"""
 print(str(cycle_count))	
+print(len(symbols))
+print(len(stocks))
+"""
+print(stock_index)
