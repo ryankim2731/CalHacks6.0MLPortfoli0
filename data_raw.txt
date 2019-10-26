@@ -1,0 +1,482 @@
+                        assetId  financialReturnsScore  growthScore    gsid  integratedScore  multipleScore            updateTime                    assetName
+date                                                                                                                                                          
+2017-01-16  MA4B66MW5E27UAKV9RU                  0.066        0.752  193067            0.300          0.920  2017-05-11T19:47:36Z  Lumber Liquidators Holdings
+2017-01-17  MA4B66MW5E27UAKV9RU                  0.066        0.750  193067            0.298          0.920  2017-05-11T19:47:36Z  Lumber Liquidators Holdings
+2017-01-18  MA4B66MW5E27UAKV9RU                  0.066        0.746  193067            0.298          0.918  2017-05-11T19:47:36Z  Lumber Liquidators Holdings
+2017-01-19  MA4B66MW5E27UAKV9RU                  0.066        0.748  193067            0.298          0.918  2017-05-11T19:47:36Z  Lumber Liquidators Holdings
+2017-01-20  MA4B66MW5E27UAKV9RU                  0.066        0.746  193067            0.298          0.918  2017-05-11T19:47:36Z  Lumber Liquidators Holdings
+2017-01-23  MA4B66MW5E27UAKV9RU                  0.066        0.742  193067            0.296          0.918  2017-05-11T19:47:36Z  Lumber Liquidators Holdings
+2017-01-24  MA4B66MW5E27UAKV9RU                  0.066        0.742  193067            0.296          0.918  2017-05-11T19:47:36Z  Lumber Liquidators Holdings
+2017-01-25  MA4B66MW5E27UAKV9RU                  0.066        0.744  193067            0.296          0.920  2017-05-11T19:47:36Z  Lumber Liquidators Holdings
+2017-01-26  MA4B66MW5E27UAKV9RU                  0.068        0.744  193067            0.298          0.920  2017-05-11T19:47:36Z  Lumber Liquidators Holdings
+2017-01-27  MA4B66MW5E27UAKV9RU                  0.066        0.746  193067            0.298          0.920  2017-05-11T19:47:36Z  Lumber Liquidators Holdings
+2017-01-30  MA4B66MW5E27UAKV9RU                  0.068        0.750  193067            0.300          0.920  2017-05-11T19:47:36Z  Lumber Liquidators Holdings
+2017-01-31  MA4B66MW5E27UAKV9RU                  0.068        0.748  193067            0.298          0.920  2017-05-11T19:47:36Z  Lumber Liquidators Holdings
+2017-02-01  MA4B66MW5E27UAKV9RU                  0.070        0.748  193067            0.300          0.920  2017-05-11T19:47:36Z  Lumber Liquidators Holdings
+2017-02-02  MA4B66MW5E27UAKV9RU                  0.070        0.748  193067            0.300          0.918  2017-05-11T19:47:36Z  Lumber Liquidators Holdings
+2017-02-03  MA4B66MW5E27UAKV9RU                  0.070        0.750  193067            0.300          0.918  2017-05-11T19:47:36Z  Lumber Liquidators Holdings
+2017-02-06  MA4B66MW5E27UAKV9RU                  0.068        0.756  193067            0.302          0.918  2017-05-11T19:47:36Z  Lumber Liquidators Holdings
+2017-02-07  MA4B66MW5E27UAKV9RU                  0.068        0.750  193067            0.300          0.920  2017-05-11T19:47:36Z  Lumber Liquidators Holdings
+2017-02-08  MA4B66MW5E27UAKV9RU                  0.068        0.752  193067            0.300          0.918  2017-05-11T19:47:36Z  Lumber Liquidators Holdings
+2017-02-09  MA4B66MW5E27UAKV9RU                  0.068        0.752  193067            0.300          0.918  2017-05-11T19:47:36Z  Lumber Liquidators Holdings
+2017-02-10  MA4B66MW5E27UAKV9RU                  0.070        0.750  193067            0.302          0.916  2017-05-11T19:47:36Z  Lumber Liquidators Holdings
+2017-02-13  MA4B66MW5E27UAKV9RU                  0.070        0.748  193067            0.302          0.914  2017-05-11T19:47:36Z  Lumber Liquidators Holdings
+2017-02-14  MA4B66MW5E27UAKV9RU                  0.070        0.744  193067            0.300          0.912  2017-05-11T19:47:36Z  Lumber Liquidators Holdings
+2017-02-15  MA4B66MW5E27UAKV9RU                  0.070        0.742  193067            0.300          0.912  2017-05-11T19:47:36Z  Lumber Liquidators Holdings
+2017-02-16  MA4B66MW5E27UAKV9RU                  0.070        0.742  193067            0.300          0.912  2017-05-11T19:47:36Z  Lumber Liquidators Holdings
+2017-02-17  MA4B66MW5E27UAKV9RU                  0.070        0.742  193067            0.300          0.912  2017-05-11T19:47:36Z  Lumber Liquidators Holdings
+2017-02-20  MA4B66MW5E27UAKV9RU                  0.070        0.736  193067            0.298          0.914  2017-05-11T19:47:36Z  Lumber Liquidators Holdings
+2017-02-21  MA4B66MW5E27UAKV9RU                  0.070        0.736  193067            0.298          0.914  2017-05-11T19:47:36Z  Lumber Liquidators Holdings
+2017-02-22  MA4B66MW5E27UAKV9RU                  0.070        0.734  193067            0.296          0.918  2017-05-11T19:47:36Z  Lumber Liquidators Holdings
+2017-02-23  MA4B66MW5E27UAKV9RU                  0.066        0.916  193067            0.354          0.918  2017-05-11T19:47:36Z  Lumber Liquidators Holdings
+2017-02-24  MA4B66MW5E27UAKV9RU                  0.064        0.914  193067            0.354          0.918  2017-05-11T19:47:36Z  Lumber Liquidators Holdings
+2017-02-27  MA4B66MW5E27UAKV9RU                  0.066        0.916  193067            0.354          0.918  2017-05-11T19:47:36Z  Lumber Liquidators Holdings
+2017-02-28  MA4B66MW5E27UAKV9RU                  0.066        0.916  193067            0.354          0.918  2017-05-11T19:47:36Z  Lumber Liquidators Holdings
+2017-03-01  MA4B66MW5E27UAKV9RU                  0.066        0.914  193067            0.354          0.916  2017-05-11T19:47:36Z  Lumber Liquidators Holdings
+2017-03-02  MA4B66MW5E27UAKV9RU                  0.068        0.914  193067            0.354          0.918  2017-05-11T19:47:36Z  Lumber Liquidators Holdings
+2017-03-03  MA4B66MW5E27UAKV9RU                  0.068        0.916  193067            0.354          0.920  2017-05-11T19:47:36Z  Lumber Liquidators Holdings
+2017-03-06  MA4B66MW5E27UAKV9RU                  0.066        0.916  193067            0.354          0.920  2017-05-11T19:47:36Z  Lumber Liquidators Holdings
+2017-03-07  MA4B66MW5E27UAKV9RU                  0.068        0.916  193067            0.356          0.918  2017-05-11T19:47:36Z  Lumber Liquidators Holdings
+2017-03-08  MA4B66MW5E27UAKV9RU                  0.068        0.916  193067            0.354          0.918  2017-05-11T19:47:36Z  Lumber Liquidators Holdings
+2017-03-09  MA4B66MW5E27UAKV9RU                  0.068        0.916  193067            0.356          0.918  2017-05-11T19:47:36Z  Lumber Liquidators Holdings
+2017-03-10  MA4B66MW5E27UAKV9RU                  0.068        0.916  193067            0.354          0.918  2017-05-11T19:47:36Z  Lumber Liquidators Holdings
+2017-03-13  MA4B66MW5E27UAKV9RU                  0.068        0.916  193067            0.356          0.918  2017-05-11T19:47:36Z  Lumber Liquidators Holdings
+2017-03-14  MA4B66MW5E27UAKV9RU                  0.068        0.916  193067            0.356          0.918  2017-05-11T19:47:36Z  Lumber Liquidators Holdings
+2017-03-15  MA4B66MW5E27UAKV9RU                  0.068        0.916  193067            0.354          0.920  2017-05-11T19:47:36Z  Lumber Liquidators Holdings
+2017-03-16  MA4B66MW5E27UAKV9RU                  0.066        0.916  193067            0.354          0.922  2017-05-11T19:47:36Z  Lumber Liquidators Holdings
+2017-03-17  MA4B66MW5E27UAKV9RU                  0.068        0.916  193067            0.354          0.924  2017-05-11T19:47:36Z  Lumber Liquidators Holdings
+2017-03-20  MA4B66MW5E27UAKV9RU                  0.068        0.916  193067            0.352          0.924  2017-05-11T19:47:36Z  Lumber Liquidators Holdings
+2017-03-21  MA4B66MW5E27UAKV9RU                  0.068        0.916  193067            0.352          0.924  2017-05-11T19:47:36Z  Lumber Liquidators Holdings
+2017-03-22  MA4B66MW5E27UAKV9RU                  0.068        0.916  193067            0.354          0.924  2017-05-11T19:47:36Z  Lumber Liquidators Holdings
+2017-03-23  MA4B66MW5E27UAKV9RU                  0.068        0.916  193067            0.354          0.924  2017-05-11T19:47:36Z  Lumber Liquidators Holdings
+2017-03-24  MA4B66MW5E27UAKV9RU                  0.068        0.914  193067            0.352          0.924  2017-05-11T19:47:36Z  Lumber Liquidators Holdings
+2017-03-27  MA4B66MW5E27UAKV9RU                  0.068        0.914  193067            0.352          0.924  2017-05-11T19:47:36Z  Lumber Liquidators Holdings
+2017-03-28  MA4B66MW5E27UAKV9RU                  0.068        0.914  193067            0.354          0.924  2017-05-11T19:47:36Z  Lumber Liquidators Holdings
+2017-03-29  MA4B66MW5E27UAKV9RU                  0.068        0.916  193067            0.354          0.924  2017-05-11T19:47:36Z  Lumber Liquidators Holdings
+2017-03-30  MA4B66MW5E27UAKV9RU                  0.068        0.916  193067            0.354          0.924  2017-05-11T19:47:36Z  Lumber Liquidators Holdings
+2017-03-31  MA4B66MW5E27UAKV9RU                  0.068        0.916  193067            0.354          0.922  2017-05-11T19:47:36Z  Lumber Liquidators Holdings
+2017-04-03  MA4B66MW5E27UAKV9RU                  0.068        0.916  193067            0.354          0.922  2017-05-11T19:47:36Z  Lumber Liquidators Holdings
+2017-04-04  MA4B66MW5E27UAKV9RU                  0.068        0.916  193067            0.354          0.924  2017-05-11T19:47:36Z  Lumber Liquidators Holdings
+2017-04-05  MA4B66MW5E27UAKV9RU                  0.068        0.926  193067            0.356          0.926  2017-05-11T19:47:36Z  Lumber Liquidators Holdings
+2017-04-06  MA4B66MW5E27UAKV9RU                  0.082        0.896  193067            0.348          0.936  2017-05-11T19:47:36Z  Lumber Liquidators Holdings
+2017-04-07  MA4B66MW5E27UAKV9RU                  0.082        0.894  193067            0.346          0.938  2017-05-11T19:47:36Z  Lumber Liquidators Holdings
+2017-04-10  MA4B66MW5E27UAKV9RU                  0.076        0.896  193067            0.346          0.936  2017-05-11T19:47:36Z  Lumber Liquidators Holdings
+2017-04-11  MA4B66MW5E27UAKV9RU                  0.076        0.898  193067            0.346          0.932  2017-05-11T19:47:36Z  Lumber Liquidators Holdings
+2017-04-12  MA4B66MW5E27UAKV9RU                  0.076        0.896  193067            0.346          0.934  2017-05-11T19:47:36Z  Lumber Liquidators Holdings
+2017-04-13  MA4B66MW5E27UAKV9RU                  0.074        0.894  193067            0.344          0.934  2017-05-11T19:47:36Z  Lumber Liquidators Holdings
+2017-04-14  MA4B66MW5E27UAKV9RU                  0.074        0.894  193067            0.346          0.932  2017-05-11T19:47:36Z  Lumber Liquidators Holdings
+2017-04-17  MA4B66MW5E27UAKV9RU                  0.074        0.896  193067            0.346          0.932  2017-05-11T19:47:36Z  Lumber Liquidators Holdings
+2017-04-18  MA4B66MW5E27UAKV9RU                  0.074        0.894  193067            0.346          0.932  2017-05-11T19:47:36Z  Lumber Liquidators Holdings
+2017-04-19  MA4B66MW5E27UAKV9RU                  0.072        0.894  193067            0.344          0.934  2017-05-11T19:47:36Z  Lumber Liquidators Holdings
+2017-04-20  MA4B66MW5E27UAKV9RU                  0.074        0.894  193067            0.344          0.934  2017-05-11T19:47:36Z  Lumber Liquidators Holdings
+2017-04-21  MA4B66MW5E27UAKV9RU                  0.074        0.896  193067            0.344          0.934  2017-05-11T19:47:36Z  Lumber Liquidators Holdings
+2017-04-24  MA4B66MW5E27UAKV9RU                  0.074        0.896  193067            0.344          0.936  2017-05-11T19:47:36Z  Lumber Liquidators Holdings
+2017-04-25  MA4B66MW5E27UAKV9RU                  0.072        0.896  193067            0.344          0.934  2017-05-11T19:47:36Z  Lumber Liquidators Holdings
+2017-04-26  MA4B66MW5E27UAKV9RU                  0.072        0.888  193067            0.342          0.934  2017-05-11T19:47:36Z  Lumber Liquidators Holdings
+2017-04-27  MA4B66MW5E27UAKV9RU                  0.072        0.888  193067            0.342          0.936  2017-05-11T19:47:36Z  Lumber Liquidators Holdings
+2017-04-28  MA4B66MW5E27UAKV9RU                  0.072        0.886  193067            0.342          0.934  2017-05-11T19:47:36Z  Lumber Liquidators Holdings
+2017-05-01  MA4B66MW5E27UAKV9RU                  0.074        0.886  193067            0.342          0.934  2017-05-11T19:47:36Z  Lumber Liquidators Holdings
+2017-05-02  MA4B66MW5E27UAKV9RU                  0.074        0.878  193067            0.338          0.934  2017-05-11T19:47:36Z  Lumber Liquidators Holdings
+2017-05-03  MA4B66MW5E27UAKV9RU                  0.288        0.868  193067            0.420          0.898  2017-05-11T19:47:36Z  Lumber Liquidators Holdings
+2017-05-04  MA4B66MW5E27UAKV9RU                  0.292        0.870  193067            0.420          0.900  2017-05-11T19:47:36Z  Lumber Liquidators Holdings
+2017-05-05  MA4B66MW5E27UAKV9RU                  0.292        0.866  193067            0.420          0.900  2017-05-11T19:47:36Z  Lumber Liquidators Holdings
+2017-05-08  MA4B66MW5E27UAKV9RU                  0.292        0.868  193067            0.420          0.900  2017-05-11T19:47:36Z  Lumber Liquidators Holdings
+2017-05-09  MA4B66MW5E27UAKV9RU                  0.296        0.868  193067            0.420          0.902  2017-05-11T19:47:36Z  Lumber Liquidators Holdings
+2017-05-10  MA4B66MW5E27UAKV9RU                  0.294        0.868  193067            0.420          0.900  2017-05-11T19:47:36Z  Lumber Liquidators Holdings
+2017-05-11  MA4B66MW5E27UAKV9RU                  0.292        0.868  193067            0.416          0.910  2017-05-11T19:47:36Z  Lumber Liquidators Holdings
+2017-05-12  MA4B66MW5E27UAKV9RU                  0.316        0.868  193067            0.426          0.906  2017-05-12T10:47:27Z  Lumber Liquidators Holdings
+2017-05-15  MA4B66MW5E27UAKV9RU                  0.316        0.868  193067            0.426          0.906  2017-05-15T08:06:02Z  Lumber Liquidators Holdings
+2017-05-16  MA4B66MW5E27UAKV9RU                  0.318        0.868  193067            0.428          0.904  2017-05-16T08:05:09Z  Lumber Liquidators Holdings
+2017-05-17  MA4B66MW5E27UAKV9RU                  0.314        0.870  193067            0.424          0.912  2017-05-17T08:16:33Z  Lumber Liquidators Holdings
+2017-05-18  MA4B66MW5E27UAKV9RU                  0.314        0.870  193067            0.426          0.908  2017-05-18T08:08:25Z  Lumber Liquidators Holdings
+2017-05-19  MA4B66MW5E27UAKV9RU                  0.318        0.872  193067            0.428          0.908  2017-05-19T08:04:44Z  Lumber Liquidators Holdings
+2017-05-22  MA4B66MW5E27UAKV9RU                  0.318        0.872  193067            0.424          0.916  2017-05-22T08:05:30Z  Lumber Liquidators Holdings
+2017-05-23  MA4B66MW5E27UAKV9RU                  0.318        0.872  193067            0.426          0.914  2017-05-23T08:11:52Z  Lumber Liquidators Holdings
+2017-05-24  MA4B66MW5E27UAKV9RU                  0.306        0.868  193067            0.420          0.912  2017-05-24T08:05:16Z  Lumber Liquidators Holdings
+2017-05-25  MA4B66MW5E27UAKV9RU                  0.304        0.868  193067            0.420          0.912  2017-05-25T08:12:41Z  Lumber Liquidators Holdings
+2017-05-26  MA4B66MW5E27UAKV9RU                  0.304        0.868  193067            0.420          0.912  2017-05-26T08:06:48Z  Lumber Liquidators Holdings
+2017-05-29  MA4B66MW5E27UAKV9RU                  0.304        0.868  193067            0.420          0.910  2017-05-29T08:05:08Z  Lumber Liquidators Holdings
+2017-05-30  MA4B66MW5E27UAKV9RU                  0.304        0.868  193067            0.420          0.910  2017-05-30T08:05:54Z  Lumber Liquidators Holdings
+2017-05-31  MA4B66MW5E27UAKV9RU                  0.300        0.870  193067            0.420          0.912  2017-06-05T09:38:43Z  Lumber Liquidators Holdings
+2017-06-01  MA4B66MW5E27UAKV9RU                  0.300        0.870  193067            0.420          0.910  2017-06-01T08:05:25Z  Lumber Liquidators Holdings
+2017-06-02  MA4B66MW5E27UAKV9RU                  0.292        0.882  193067            0.416          0.924  2017-06-02T08:04:43Z  Lumber Liquidators Holdings
+2017-06-05  MA4B66MW5E27UAKV9RU                  0.290        0.882  193067            0.418          0.918  2017-06-05T08:04:58Z  Lumber Liquidators Holdings
+2017-06-06  MA4B66MW5E27UAKV9RU                  0.292        0.882  193067            0.420          0.916  2017-06-06T08:05:52Z  Lumber Liquidators Holdings
+2017-06-07  MA4B66MW5E27UAKV9RU                  0.292        0.880  193067            0.418          0.916  2017-06-07T08:05:46Z  Lumber Liquidators Holdings
+2017-06-08  MA4B66MW5E27UAKV9RU                  0.292        0.880  193067            0.420          0.912  2017-06-08T08:33:37Z  Lumber Liquidators Holdings
+2017-06-09  MA4B66MW5E27UAKV9RU                  0.290        0.880  193067            0.418          0.914  2017-06-09T08:05:43Z  Lumber Liquidators Holdings
+2017-06-12  MA4B66MW5E27UAKV9RU                  0.290        0.880  193067            0.418          0.914  2017-06-12T08:05:22Z  Lumber Liquidators Holdings
+2017-06-13  MA4B66MW5E27UAKV9RU                  0.290        0.880  193067            0.418          0.914  2017-06-13T08:05:29Z  Lumber Liquidators Holdings
+2017-06-14  MA4B66MW5E27UAKV9RU                  0.288        0.882  193067            0.418          0.914  2017-06-14T08:04:49Z  Lumber Liquidators Holdings
+2017-06-15  MA4B66MW5E27UAKV9RU                  0.290        0.882  193067            0.420          0.912  2017-06-15T08:04:51Z  Lumber Liquidators Holdings
+2017-06-16  MA4B66MW5E27UAKV9RU                  0.288        0.882  193067            0.420          0.910  2017-06-16T08:05:50Z  Lumber Liquidators Holdings
+2017-06-19  MA4B66MW5E27UAKV9RU                  0.290        0.880  193067            0.420          0.910  2017-06-19T08:04:45Z  Lumber Liquidators Holdings
+2017-06-20  MA4B66MW5E27UAKV9RU                  0.292        0.876  193067            0.420          0.912  2017-06-20T08:08:35Z  Lumber Liquidators Holdings
+2017-06-21  MA4B66MW5E27UAKV9RU                  0.290        0.874  193067            0.418          0.910  2017-06-21T08:07:14Z  Lumber Liquidators Holdings
+2017-06-22  MA4B66MW5E27UAKV9RU                  0.290        0.874  193067            0.418          0.910  2017-06-22T08:05:56Z  Lumber Liquidators Holdings
+2017-06-23  MA4B66MW5E27UAKV9RU                  0.294        0.876  193067            0.420          0.910  2017-06-23T08:25:02Z  Lumber Liquidators Holdings
+2017-06-26  MA4B66MW5E27UAKV9RU                  0.294        0.876  193067            0.420          0.910  2017-06-26T08:05:04Z  Lumber Liquidators Holdings
+2017-06-27  MA4B66MW5E27UAKV9RU                  0.294        0.876  193067            0.420          0.910  2017-06-27T08:06:17Z  Lumber Liquidators Holdings
+2017-06-28  MA4B66MW5E27UAKV9RU                  0.294        0.876  193067            0.420          0.912  2017-06-28T08:04:52Z  Lumber Liquidators Holdings
+2017-06-29  MA4B66MW5E27UAKV9RU                  0.294        0.876  193067            0.420          0.912  2017-06-29T08:05:26Z  Lumber Liquidators Holdings
+2017-06-30  MA4B66MW5E27UAKV9RU                  0.294        0.876  193067            0.420          0.910  2017-06-30T08:05:02Z  Lumber Liquidators Holdings
+2017-01-16  MA4B66MW5E27UANLY64                  0.904        0.772  194688            0.594          0.894  2017-05-11T19:47:36Z              Ulta Beauty Inc
+2017-01-17  MA4B66MW5E27UANLY64                  0.904        0.774  194688            0.594          0.894  2017-05-11T19:47:36Z              Ulta Beauty Inc
+2017-01-18  MA4B66MW5E27UANLY64                  0.904        0.772  194688            0.594          0.896  2017-05-11T19:47:36Z              Ulta Beauty Inc
+2017-01-19  MA4B66MW5E27UANLY64                  0.904        0.772  194688            0.594          0.896  2017-05-11T19:47:36Z              Ulta Beauty Inc
+2017-01-20  MA4B66MW5E27UANLY64                  0.904        0.772  194688            0.594          0.894  2017-05-11T19:47:36Z              Ulta Beauty Inc
+2017-01-23  MA4B66MW5E27UANLY64                  0.904        0.768  194688            0.592          0.894  2017-05-11T19:47:36Z              Ulta Beauty Inc
+2017-01-24  MA4B66MW5E27UANLY64                  0.904        0.770  194688            0.594          0.892  2017-05-11T19:47:36Z              Ulta Beauty Inc
+2017-01-25  MA4B66MW5E27UANLY64                  0.904        0.770  194688            0.594          0.892  2017-05-11T19:47:36Z              Ulta Beauty Inc
+2017-01-26  MA4B66MW5E27UANLY64                  0.902        0.776  194688            0.594          0.894  2017-05-11T19:47:36Z              Ulta Beauty Inc
+2017-01-27  MA4B66MW5E27UANLY64                  0.904        0.774  194688            0.594          0.894  2017-05-11T19:47:36Z              Ulta Beauty Inc
+2017-01-30  MA4B66MW5E27UANLY64                  0.902        0.778  194688            0.594          0.894  2017-05-11T19:47:36Z              Ulta Beauty Inc
+2017-01-31  MA4B66MW5E27UANLY64                  0.900        0.778  194688            0.594          0.896  2017-05-11T19:47:36Z              Ulta Beauty Inc
+2017-02-01  MA4B66MW5E27UANLY64                  0.900        0.778  194688            0.594          0.896  2017-05-11T19:47:36Z              Ulta Beauty Inc
+2017-02-02  MA4B66MW5E27UANLY64                  0.902        0.778  194688            0.594          0.896  2017-05-11T19:47:36Z              Ulta Beauty Inc
+2017-02-03  MA4B66MW5E27UANLY64                  0.902        0.774  194688            0.594          0.894  2017-05-11T19:47:36Z              Ulta Beauty Inc
+2017-02-06  MA4B66MW5E27UANLY64                  0.902        0.778  194688            0.594          0.898  2017-05-11T19:47:36Z              Ulta Beauty Inc
+2017-02-07  MA4B66MW5E27UANLY64                  0.900        0.778  194688            0.594          0.898  2017-05-11T19:47:36Z              Ulta Beauty Inc
+2017-02-08  MA4B66MW5E27UANLY64                  0.900        0.780  194688            0.594          0.896  2017-05-11T19:47:36Z              Ulta Beauty Inc
+2017-02-09  MA4B66MW5E27UANLY64                  0.900        0.780  194688            0.594          0.898  2017-05-11T19:47:36Z              Ulta Beauty Inc
+2017-02-10  MA4B66MW5E27UANLY64                  0.900        0.778  194688            0.594          0.896  2017-05-11T19:47:36Z              Ulta Beauty Inc
+2017-02-13  MA4B66MW5E27UANLY64                  0.902        0.774  194688            0.594          0.894  2017-05-11T19:47:36Z              Ulta Beauty Inc
+2017-02-14  MA4B66MW5E27UANLY64                  0.902        0.774  194688            0.594          0.896  2017-05-11T19:47:36Z              Ulta Beauty Inc
+2017-02-15  MA4B66MW5E27UANLY64                  0.904        0.772  194688            0.594          0.896  2017-05-11T19:47:36Z              Ulta Beauty Inc
+2017-02-16  MA4B66MW5E27UANLY64                  0.904        0.772  194688            0.592          0.896  2017-05-11T19:47:36Z              Ulta Beauty Inc
+2017-02-17  MA4B66MW5E27UANLY64                  0.902        0.768  194688            0.592          0.896  2017-05-11T19:47:36Z              Ulta Beauty Inc
+2017-02-20  MA4B66MW5E27UANLY64                  0.900        0.772  194688            0.592          0.896  2017-05-11T19:47:36Z              Ulta Beauty Inc
+2017-02-21  MA4B66MW5E27UANLY64                  0.900        0.772  194688            0.592          0.896  2017-05-11T19:47:36Z              Ulta Beauty Inc
+2017-02-22  MA4B66MW5E27UANLY64                  0.900        0.770  194688            0.592          0.896  2017-05-11T19:47:36Z              Ulta Beauty Inc
+2017-02-23  MA4B66MW5E27UANLY64                  0.900        0.766  194688            0.590          0.896  2017-05-11T19:47:36Z              Ulta Beauty Inc
+2017-02-24  MA4B66MW5E27UANLY64                  0.902        0.768  194688            0.590          0.896  2017-05-11T19:47:36Z              Ulta Beauty Inc
+2017-02-27  MA4B66MW5E27UANLY64                  0.900        0.770  194688            0.592          0.896  2017-05-11T19:47:36Z              Ulta Beauty Inc
+2017-02-28  MA4B66MW5E27UANLY64                  0.900        0.770  194688            0.592          0.896  2017-05-11T19:47:36Z              Ulta Beauty Inc
+2017-03-01  MA4B66MW5E27UANLY64                  0.900        0.766  194688            0.590          0.896  2017-05-11T19:47:36Z              Ulta Beauty Inc
+2017-03-02  MA4B66MW5E27UANLY64                  0.904        0.768  194688            0.592          0.896  2017-05-11T19:47:36Z              Ulta Beauty Inc
+2017-03-03  MA4B66MW5E27UANLY64                  0.902        0.766  194688            0.590          0.898  2017-05-11T19:47:36Z              Ulta Beauty Inc
+2017-03-06  MA4B66MW5E27UANLY64                  0.902        0.766  194688            0.590          0.896  2017-05-11T19:47:36Z              Ulta Beauty Inc
+2017-03-07  MA4B66MW5E27UANLY64                  0.902        0.764  194688            0.590          0.898  2017-05-11T19:47:36Z              Ulta Beauty Inc
+2017-03-08  MA4B66MW5E27UANLY64                  0.900        0.766  194688            0.590          0.898  2017-05-11T19:47:36Z              Ulta Beauty Inc
+2017-03-09  MA4B66MW5E27UANLY64                  0.902        0.768  194688            0.590          0.900  2017-05-11T19:47:36Z              Ulta Beauty Inc
+2017-03-10  MA4B66MW5E27UANLY64                  0.900        0.766  194688            0.590          0.900  2017-05-11T19:47:36Z              Ulta Beauty Inc
+2017-03-13  MA4B66MW5E27UANLY64                  0.896        0.778  194688            0.590          0.902  2017-05-11T19:47:36Z              Ulta Beauty Inc
+2017-03-14  MA4B66MW5E27UANLY64                  0.896        0.778  194688            0.590          0.902  2017-05-11T19:47:36Z              Ulta Beauty Inc
+2017-03-15  MA4B66MW5E27UANLY64                  0.898        0.776  194688            0.592          0.902  2017-05-11T19:47:36Z              Ulta Beauty Inc
+2017-03-16  MA4B66MW5E27UANLY64                  0.898        0.776  194688            0.592          0.900  2017-05-11T19:47:36Z              Ulta Beauty Inc
+2017-03-17  MA4B66MW5E27UANLY64                  0.898        0.776  194688            0.592          0.900  2017-05-11T19:47:36Z              Ulta Beauty Inc
+2017-03-20  MA4B66MW5E27UANLY64                  0.898        0.774  194688            0.590          0.904  2017-05-11T19:47:36Z              Ulta Beauty Inc
+2017-03-21  MA4B66MW5E27UANLY64                  0.900        0.772  194688            0.590          0.900  2017-05-11T19:47:36Z              Ulta Beauty Inc
+2017-03-22  MA4B66MW5E27UANLY64                  0.900        0.772  194688            0.590          0.902  2017-05-11T19:47:36Z              Ulta Beauty Inc
+2017-03-23  MA4B66MW5E27UANLY64                  0.898        0.772  194688            0.590          0.902  2017-05-11T19:47:36Z              Ulta Beauty Inc
+2017-03-24  MA4B66MW5E27UANLY64                  0.898        0.768  194688            0.588          0.902  2017-05-11T19:47:36Z              Ulta Beauty Inc
+2017-03-27  MA4B66MW5E27UANLY64                  0.898        0.768  194688            0.588          0.900  2017-05-11T19:47:36Z              Ulta Beauty Inc
+2017-03-28  MA4B66MW5E27UANLY64                  0.898        0.766  194688            0.588          0.900  2017-05-11T19:47:36Z              Ulta Beauty Inc
+2017-03-29  MA4B66MW5E27UANLY64                  0.898        0.766  194688            0.588          0.900  2017-05-11T19:47:36Z              Ulta Beauty Inc
+2017-03-30  MA4B66MW5E27UANLY64                  0.896        0.768  194688            0.588          0.900  2017-05-11T19:47:36Z              Ulta Beauty Inc
+2017-03-31  MA4B66MW5E27UANLY64                  0.896        0.768  194688            0.588          0.900  2017-05-11T19:47:36Z              Ulta Beauty Inc
+2017-04-03  MA4B66MW5E27UANLY64                  0.896        0.766  194688            0.588          0.898  2017-05-11T19:47:36Z              Ulta Beauty Inc
+2017-04-04  MA4B66MW5E27UANLY64                  0.894        0.766  194688            0.588          0.898  2017-05-11T19:47:36Z              Ulta Beauty Inc
+2017-04-05  MA4B66MW5E27UANLY64                  0.896        0.760  194688            0.586          0.900  2017-05-11T19:47:36Z              Ulta Beauty Inc
+2017-04-06  MA4B66MW5E27UANLY64                  0.886        0.826  194688            0.598          0.920  2017-05-11T19:47:36Z              Ulta Beauty Inc
+2017-04-07  MA4B66MW5E27UANLY64                  0.886        0.826  194688            0.598          0.920  2017-05-11T19:47:36Z              Ulta Beauty Inc
+2017-04-10  MA4B66MW5E27UANLY64                  0.888        0.828  194688            0.598          0.920  2017-05-11T19:47:36Z              Ulta Beauty Inc
+2017-04-11  MA4B66MW5E27UANLY64                  0.888        0.824  194688            0.598          0.918  2017-05-11T19:47:36Z              Ulta Beauty Inc
+2017-04-12  MA4B66MW5E27UANLY64                  0.888        0.822  194688            0.596          0.920  2017-05-11T19:47:36Z              Ulta Beauty Inc
+2017-04-13  MA4B66MW5E27UANLY64                  0.884        0.820  194688            0.594          0.920  2017-05-11T19:47:36Z              Ulta Beauty Inc
+2017-04-14  MA4B66MW5E27UANLY64                  0.884        0.818  194688            0.594          0.922  2017-05-11T19:47:36Z              Ulta Beauty Inc
+2017-04-17  MA4B66MW5E27UANLY64                  0.884        0.818  194688            0.594          0.922  2017-05-11T19:47:36Z              Ulta Beauty Inc
+2017-04-18  MA4B66MW5E27UANLY64                  0.886        0.820  194688            0.596          0.920  2017-05-11T19:47:36Z              Ulta Beauty Inc
+2017-04-19  MA4B66MW5E27UANLY64                  0.888        0.822  194688            0.596          0.922  2017-05-11T19:47:36Z              Ulta Beauty Inc
+2017-04-20  MA4B66MW5E27UANLY64                  0.888        0.822  194688            0.596          0.920  2017-05-11T19:47:36Z              Ulta Beauty Inc
+2017-04-21  MA4B66MW5E27UANLY64                  0.888        0.822  194688            0.598          0.918  2017-05-11T19:47:36Z              Ulta Beauty Inc
+2017-04-24  MA4B66MW5E27UANLY64                  0.886        0.828  194688            0.598          0.918  2017-05-11T19:47:36Z              Ulta Beauty Inc
+2017-04-25  MA4B66MW5E27UANLY64                  0.886        0.828  194688            0.598          0.918  2017-05-11T19:47:36Z              Ulta Beauty Inc
+2017-04-26  MA4B66MW5E27UANLY64                  0.886        0.824  194688            0.598          0.916  2017-05-11T19:47:36Z              Ulta Beauty Inc
+2017-04-27  MA4B66MW5E27UANLY64                  0.886        0.824  194688            0.596          0.920  2017-05-11T19:47:36Z              Ulta Beauty Inc
+2017-04-28  MA4B66MW5E27UANLY64                  0.888        0.822  194688            0.598          0.916  2017-05-11T19:47:36Z              Ulta Beauty Inc
+2017-05-01  MA4B66MW5E27UANLY64                  0.888        0.824  194688            0.598          0.918  2017-05-11T19:47:36Z              Ulta Beauty Inc
+2017-05-02  MA4B66MW5E27UANLY64                  0.888        0.820  194688            0.596          0.916  2017-05-11T19:47:36Z              Ulta Beauty Inc
+2017-05-03  MA4B66MW5E27UANLY64                  0.886        0.818  194688            0.596          0.918  2017-05-11T19:47:36Z              Ulta Beauty Inc
+2017-05-04  MA4B66MW5E27UANLY64                  0.886        0.816  194688            0.594          0.922  2017-05-11T19:47:36Z              Ulta Beauty Inc
+2017-05-05  MA4B66MW5E27UANLY64                  0.886        0.814  194688            0.594          0.920  2017-05-11T19:47:36Z              Ulta Beauty Inc
+2017-05-08  MA4B66MW5E27UANLY64                  0.882        0.786  194688            0.588          0.906  2017-05-11T19:47:36Z              Ulta Beauty Inc
+2017-05-09  MA4B66MW5E27UANLY64                  0.886        0.786  194688            0.588          0.904  2017-05-11T19:47:36Z              Ulta Beauty Inc
+2017-05-10  MA4B66MW5E27UANLY64                  0.886        0.784  194688            0.588          0.908  2017-05-11T19:47:36Z              Ulta Beauty Inc
+2017-05-11  MA4B66MW5E27UANLY64                  0.884        0.784  194688            0.588          0.902  2017-05-11T19:47:36Z              Ulta Beauty Inc
+2017-05-12  MA4B66MW5E27UANLY64                  0.886        0.782  194688            0.588          0.904  2017-05-12T10:47:27Z              Ulta Beauty Inc
+2017-05-15  MA4B66MW5E27UANLY64                  0.886        0.784  194688            0.588          0.904  2017-05-15T08:06:02Z              Ulta Beauty Inc
+2017-05-16  MA4B66MW5E27UANLY64                  0.886        0.784  194688            0.590          0.902  2017-05-16T08:05:09Z              Ulta Beauty Inc
+2017-05-17  MA4B66MW5E27UANLY64                  0.886        0.786  194688            0.590          0.902  2017-05-17T08:16:33Z              Ulta Beauty Inc
+2017-05-18  MA4B66MW5E27UANLY64                  0.884        0.786  194688            0.590          0.900  2017-05-18T08:08:25Z              Ulta Beauty Inc
+2017-05-19  MA4B66MW5E27UANLY64                  0.886        0.784  194688            0.590          0.904  2017-05-19T08:04:44Z              Ulta Beauty Inc
+2017-05-22  MA4B66MW5E27UANLY64                  0.886        0.786  194688            0.590          0.902  2017-05-22T08:05:30Z              Ulta Beauty Inc
+2017-05-23  MA4B66MW5E27UANLY64                  0.886        0.784  194688            0.590          0.900  2017-05-23T08:11:52Z              Ulta Beauty Inc
+2017-05-24  MA4B66MW5E27UANLY64                  0.884        0.780  194688            0.590          0.898  2017-05-24T08:05:16Z              Ulta Beauty Inc
+2017-05-25  MA4B66MW5E27UANLY64                  0.878        0.780  194688            0.588          0.894  2017-05-25T08:12:41Z              Ulta Beauty Inc
+2017-05-26  MA4B66MW5E27UANLY64                  0.874        0.782  194688            0.586          0.896  2017-05-26T08:06:48Z              Ulta Beauty Inc
+2017-05-29  MA4B66MW5E27UANLY64                  0.874        0.782  194688            0.586          0.898  2017-05-29T08:05:08Z              Ulta Beauty Inc
+2017-05-30  MA4B66MW5E27UANLY64                  0.874        0.784  194688            0.586          0.900  2017-05-30T08:05:54Z              Ulta Beauty Inc
+2017-05-31  MA4B66MW5E27UANLY64                  0.868        0.788  194688            0.586          0.900  2017-06-05T09:38:43Z              Ulta Beauty Inc
+2017-06-01  MA4B66MW5E27UANLY64                  0.868        0.788  194688            0.584          0.900  2017-06-01T08:05:25Z              Ulta Beauty Inc
+2017-06-02  MA4B66MW5E27UANLY64                  0.866        0.798  194688            0.584          0.914  2017-06-02T08:04:43Z              Ulta Beauty Inc
+2017-06-05  MA4B66MW5E27UANLY64                  0.862        0.796  194688            0.582          0.912  2017-06-05T08:04:58Z              Ulta Beauty Inc
+2017-06-06  MA4B66MW5E27UANLY64                  0.862        0.796  194688            0.582          0.912  2017-06-06T08:05:52Z              Ulta Beauty Inc
+2017-06-07  MA4B66MW5E27UANLY64                  0.860        0.796  194688            0.582          0.910  2017-06-07T08:05:46Z              Ulta Beauty Inc
+2017-06-08  MA4B66MW5E27UANLY64                  0.860        0.794  194688            0.582          0.910  2017-06-08T08:33:37Z              Ulta Beauty Inc
+2017-06-09  MA4B66MW5E27UANLY64                  0.862        0.794  194688            0.582          0.910  2017-06-09T08:05:43Z              Ulta Beauty Inc
+2017-06-12  MA4B66MW5E27UANLY64                  0.862        0.796  194688            0.582          0.912  2017-06-12T08:05:22Z              Ulta Beauty Inc
+2017-06-13  MA4B66MW5E27UANLY64                  0.860        0.796  194688            0.582          0.912  2017-06-13T08:05:29Z              Ulta Beauty Inc
+2017-06-14  MA4B66MW5E27UANLY64                  0.860        0.796  194688            0.580          0.912  2017-06-14T08:04:49Z              Ulta Beauty Inc
+2017-06-15  MA4B66MW5E27UANLY64                  0.860        0.796  194688            0.580          0.912  2017-06-15T08:04:51Z              Ulta Beauty Inc
+2017-06-16  MA4B66MW5E27UANLY64                  0.860        0.794  194688            0.580          0.912  2017-06-16T08:05:50Z              Ulta Beauty Inc
+2017-06-19  MA4B66MW5E27UANLY64                  0.860        0.794  194688            0.580          0.912  2017-06-19T08:04:45Z              Ulta Beauty Inc
+2017-06-20  MA4B66MW5E27UANLY64                  0.860        0.792  194688            0.582          0.906  2017-06-20T08:08:35Z              Ulta Beauty Inc
+2017-06-21  MA4B66MW5E27UANLY64                  0.858        0.792  194688            0.582          0.906  2017-06-21T08:07:14Z              Ulta Beauty Inc
+2017-06-22  MA4B66MW5E27UANLY64                  0.858        0.792  194688            0.582          0.904  2017-06-22T08:05:56Z              Ulta Beauty Inc
+2017-06-23  MA4B66MW5E27UANLY64                  0.858        0.794  194688            0.584          0.902  2017-06-23T08:25:02Z              Ulta Beauty Inc
+2017-06-26  MA4B66MW5E27UANLY64                  0.858        0.794  194688            0.584          0.902  2017-06-26T08:05:04Z              Ulta Beauty Inc
+2017-06-27  MA4B66MW5E27UANLY64                  0.860        0.794  194688            0.584          0.904  2017-06-27T08:06:17Z              Ulta Beauty Inc
+2017-06-28  MA4B66MW5E27UANLY64                  0.858        0.794  194688            0.584          0.904  2017-06-28T08:04:52Z              Ulta Beauty Inc
+2017-06-29  MA4B66MW5E27UANLY64                  0.858        0.794  194688            0.584          0.902  2017-06-29T08:05:26Z              Ulta Beauty Inc
+2017-06-30  MA4B66MW5E27UANLY64                  0.856        0.794  194688            0.582          0.904  2017-06-30T08:05:02Z              Ulta Beauty Inc
+2017-01-16  MA4B66MW5E27UA4ZDFF                  0.456        0.362   75154            0.508          0.294  2017-05-11T19:47:36Z                Carnival Corp
+2017-01-17  MA4B66MW5E27UA4ZDFF                  0.456        0.362   75154            0.508          0.296  2017-05-11T19:47:36Z                Carnival Corp
+2017-01-18  MA4B66MW5E27UA4ZDFF                  0.454        0.362   75154            0.508          0.290  2017-05-11T19:47:36Z                Carnival Corp
+2017-01-19  MA4B66MW5E27UA4ZDFF                  0.458        0.364   75154            0.508          0.300  2017-05-11T19:47:36Z                Carnival Corp
+2017-01-20  MA4B66MW5E27UA4ZDFF                  0.452        0.370   75154            0.506          0.306  2017-05-11T19:47:36Z                Carnival Corp
+2017-01-23  MA4B66MW5E27UA4ZDFF                  0.452        0.372   75154            0.506          0.302  2017-05-11T19:47:36Z                Carnival Corp
+2017-01-24  MA4B66MW5E27UA4ZDFF                  0.450        0.368   75154            0.504          0.306  2017-05-11T19:47:36Z                Carnival Corp
+2017-01-25  MA4B66MW5E27UA4ZDFF                  0.454        0.360   75154            0.500          0.312  2017-05-11T19:47:36Z                Carnival Corp
+2017-01-26  MA4B66MW5E27UA4ZDFF                  0.454        0.356   75154            0.496          0.322  2017-05-11T19:47:36Z                Carnival Corp
+2017-01-27  MA4B66MW5E27UA4ZDFF                  0.452        0.356   75154            0.484          0.354  2017-05-11T19:47:36Z                Carnival Corp
+2017-01-30  MA4B66MW5E27UA4ZDFF                  0.454        0.356   75154            0.490          0.338  2017-05-11T19:47:36Z                Carnival Corp
+2017-01-31  MA4B66MW5E27UA4ZDFF                  0.456        0.354   75154            0.490          0.338  2017-05-11T19:47:36Z                Carnival Corp
+2017-02-01  MA4B66MW5E27UA4ZDFF                  0.456        0.358   75154            0.496          0.326  2017-05-11T19:47:36Z                Carnival Corp
+2017-02-02  MA4B66MW5E27UA4ZDFF                  0.452        0.352   75154            0.492          0.326  2017-05-11T19:47:36Z                Carnival Corp
+2017-02-03  MA4B66MW5E27UA4ZDFF                  0.450        0.352   75154            0.492          0.328  2017-05-11T19:47:36Z                Carnival Corp
+2017-02-06  MA4B66MW5E27UA4ZDFF                  0.454        0.352   75154            0.496          0.322  2017-05-11T19:47:36Z                Carnival Corp
+2017-02-07  MA4B66MW5E27UA4ZDFF                  0.448        0.350   75154            0.488          0.338  2017-05-11T19:47:36Z                Carnival Corp
+2017-02-08  MA4B66MW5E27UA4ZDFF                  0.448        0.350   75154            0.490          0.330  2017-05-11T19:47:36Z                Carnival Corp
+2017-02-09  MA4B66MW5E27UA4ZDFF                  0.448        0.348   75154            0.488          0.332  2017-05-11T19:47:36Z                Carnival Corp
+2017-02-10  MA4B66MW5E27UA4ZDFF                  0.446        0.344   75154            0.486          0.330  2017-05-11T19:47:36Z                Carnival Corp
+2017-02-13  MA4B66MW5E27UA4ZDFF                  0.452        0.348   75154            0.496          0.312  2017-05-11T19:47:36Z                Carnival Corp
+2017-02-14  MA4B66MW5E27UA4ZDFF                  0.452        0.346   75154            0.498          0.306  2017-05-11T19:47:36Z                Carnival Corp
+2017-02-15  MA4B66MW5E27UA4ZDFF                  0.452        0.346   75154            0.498          0.304  2017-05-11T19:47:36Z                Carnival Corp
+2017-02-16  MA4B66MW5E27UA4ZDFF                  0.454        0.348   75154            0.500          0.302  2017-05-11T19:47:36Z                Carnival Corp
+2017-02-17  MA4B66MW5E27UA4ZDFF                  0.456        0.346   75154            0.502          0.298  2017-05-11T19:47:36Z                Carnival Corp
+2017-02-20  MA4B66MW5E27UA4ZDFF                  0.456        0.350   75154            0.506          0.286  2017-05-11T19:47:36Z                Carnival Corp
+2017-02-21  MA4B66MW5E27UA4ZDFF                  0.458        0.348   75154            0.506          0.286  2017-05-11T19:47:36Z                Carnival Corp
+2017-02-22  MA4B66MW5E27UA4ZDFF                  0.458        0.348   75154            0.506          0.288  2017-05-11T19:47:36Z                Carnival Corp
+2017-02-23  MA4B66MW5E27UA4ZDFF                  0.458        0.344   75154            0.506          0.288  2017-05-11T19:47:36Z                Carnival Corp
+2017-02-24  MA4B66MW5E27UA4ZDFF                  0.458        0.342   75154            0.502          0.292  2017-05-11T19:47:36Z                Carnival Corp
+2017-02-27  MA4B66MW5E27UA4ZDFF                  0.462        0.340   75154            0.502          0.294  2017-05-11T19:47:36Z                Carnival Corp
+2017-02-28  MA4B66MW5E27UA4ZDFF                  0.462        0.338   75154            0.502          0.292  2017-05-11T19:47:36Z                Carnival Corp
+2017-03-01  MA4B66MW5E27UA4ZDFF                  0.464        0.338   75154            0.502          0.296  2017-05-11T19:47:36Z                Carnival Corp
+2017-03-02  MA4B66MW5E27UA4ZDFF                  0.462        0.336   75154            0.500          0.298  2017-05-11T19:47:36Z                Carnival Corp
+2017-03-03  MA4B66MW5E27UA4ZDFF                  0.466        0.330   75154            0.500          0.298  2017-05-11T19:47:36Z                Carnival Corp
+2017-03-06  MA4B66MW5E27UA4ZDFF                  0.472        0.508   75154            0.588          0.216  2017-05-11T19:47:36Z                Carnival Corp
+2017-03-07  MA4B66MW5E27UA4ZDFF                  0.474        0.510   75154            0.588          0.218  2017-05-11T19:47:36Z                Carnival Corp
+2017-03-08  MA4B66MW5E27UA4ZDFF                  0.472        0.510   75154            0.588          0.216  2017-05-11T19:47:36Z                Carnival Corp
+2017-03-09  MA4B66MW5E27UA4ZDFF                  0.472        0.510   75154            0.586          0.226  2017-05-11T19:47:36Z                Carnival Corp
+2017-03-10  MA4B66MW5E27UA4ZDFF                  0.472        0.512   75154            0.582          0.236  2017-05-11T19:47:36Z                Carnival Corp
+2017-03-13  MA4B66MW5E27UA4ZDFF                  0.472        0.514   75154            0.578          0.252  2017-05-11T19:47:36Z                Carnival Corp
+2017-03-14  MA4B66MW5E27UA4ZDFF                  0.472        0.510   75154            0.578          0.248  2017-05-11T19:47:36Z                Carnival Corp
+2017-03-15  MA4B66MW5E27UA4ZDFF                  0.472        0.510   75154            0.578          0.246  2017-05-11T19:47:36Z                Carnival Corp
+2017-03-16  MA4B66MW5E27UA4ZDFF                  0.470        0.506   75154            0.578          0.242  2017-05-11T19:47:36Z                Carnival Corp
+2017-03-17  MA4B66MW5E27UA4ZDFF                  0.470        0.506   75154            0.576          0.248  2017-05-11T19:47:36Z                Carnival Corp
+2017-03-20  MA4B66MW5E27UA4ZDFF                  0.470        0.506   75154            0.574          0.252  2017-05-11T19:47:36Z                Carnival Corp
+2017-03-21  MA4B66MW5E27UA4ZDFF                  0.470        0.504   75154            0.572          0.258  2017-05-11T19:47:36Z                Carnival Corp
+2017-03-22  MA4B66MW5E27UA4ZDFF                  0.470        0.504   75154            0.570          0.262  2017-05-11T19:47:36Z                Carnival Corp
+2017-03-23  MA4B66MW5E27UA4ZDFF                  0.470        0.504   75154            0.568          0.272  2017-05-11T19:47:36Z                Carnival Corp
+2017-03-24  MA4B66MW5E27UA4ZDFF                  0.470        0.502   75154            0.566          0.272  2017-05-11T19:47:36Z                Carnival Corp
+2017-03-27  MA4B66MW5E27UA4ZDFF                  0.472        0.500   75154            0.566          0.272  2017-05-11T19:47:36Z                Carnival Corp
+2017-03-28  MA4B66MW5E27UA4ZDFF                  0.492        0.546   75154            0.596          0.248  2017-05-11T19:47:36Z                Carnival Corp
+2017-03-29  MA4B66MW5E27UA4ZDFF                  0.500        0.508   75154            0.586          0.254  2017-05-11T19:47:36Z                Carnival Corp
+2017-03-30  MA4B66MW5E27UA4ZDFF                  0.502        0.510   75154            0.588          0.248  2017-05-11T19:47:36Z                Carnival Corp
+2017-03-31  MA4B66MW5E27UA4ZDFF                  0.502        0.512   75154            0.586          0.254  2017-05-11T19:47:36Z                Carnival Corp
+2017-04-03  MA4B66MW5E27UA4ZDFF                  0.502        0.512   75154            0.588          0.250  2017-05-11T19:47:36Z                Carnival Corp
+2017-04-04  MA4B66MW5E27UA4ZDFF                  0.502        0.508   75154            0.588          0.246  2017-05-11T19:47:36Z                Carnival Corp
+2017-04-05  MA4B66MW5E27UA4ZDFF                  0.500        0.510   75154            0.588          0.244  2017-05-11T19:47:36Z                Carnival Corp
+2017-04-06  MA4B66MW5E27UA4ZDFF                  0.462        0.562   75154            0.564          0.332  2017-05-11T19:47:36Z                Carnival Corp
+2017-04-07  MA4B66MW5E27UA4ZDFF                  0.460        0.564   75154            0.566          0.328  2017-05-11T19:47:36Z                Carnival Corp
+2017-04-10  MA4B66MW5E27UA4ZDFF                  0.454        0.566   75154            0.564          0.328  2017-05-11T19:47:36Z                Carnival Corp
+2017-04-11  MA4B66MW5E27UA4ZDFF                  0.452        0.566   75154            0.566          0.322  2017-05-11T19:47:36Z                Carnival Corp
+2017-04-12  MA4B66MW5E27UA4ZDFF                  0.452        0.566   75154            0.568          0.310  2017-05-11T19:47:36Z                Carnival Corp
+2017-04-13  MA4B66MW5E27UA4ZDFF                  0.452        0.568   75154            0.568          0.316  2017-05-11T19:47:36Z                Carnival Corp
+2017-04-14  MA4B66MW5E27UA4ZDFF                  0.454        0.566   75154            0.566          0.322  2017-05-11T19:47:36Z                Carnival Corp
+2017-04-17  MA4B66MW5E27UA4ZDFF                  0.454        0.572   75154            0.568          0.322  2017-05-11T19:47:36Z                Carnival Corp
+2017-04-18  MA4B66MW5E27UA4ZDFF                  0.456        0.570   75154            0.566          0.328  2017-05-11T19:47:36Z                Carnival Corp
+2017-04-19  MA4B66MW5E27UA4ZDFF                  0.450        0.570   75154            0.564          0.328  2017-05-11T19:47:36Z                Carnival Corp
+2017-04-20  MA4B66MW5E27UA4ZDFF                  0.448        0.568   75154            0.560          0.336  2017-05-11T19:47:36Z                Carnival Corp
+2017-04-21  MA4B66MW5E27UA4ZDFF                  0.450        0.566   75154            0.560          0.334  2017-05-11T19:47:36Z                Carnival Corp
+2017-04-24  MA4B66MW5E27UA4ZDFF                  0.452        0.566   75154            0.562          0.332  2017-05-11T19:47:36Z                Carnival Corp
+2017-04-25  MA4B66MW5E27UA4ZDFF                  0.452        0.568   75154            0.562          0.332  2017-05-11T19:47:36Z                Carnival Corp
+2017-04-26  MA4B66MW5E27UA4ZDFF                  0.452        0.566   75154            0.560          0.338  2017-05-11T19:47:36Z                Carnival Corp
+2017-04-27  MA4B66MW5E27UA4ZDFF                  0.452        0.568   75154            0.556          0.350  2017-05-11T19:47:36Z                Carnival Corp
+2017-04-28  MA4B66MW5E27UA4ZDFF                  0.452        0.570   75154            0.556          0.352  2017-05-11T19:47:36Z                Carnival Corp
+2017-05-01  MA4B66MW5E27UA4ZDFF                  0.454        0.566   75154            0.548          0.378  2017-05-11T19:47:36Z                Carnival Corp
+2017-05-02  MA4B66MW5E27UA4ZDFF                  0.452        0.562   75154            0.544          0.384  2017-05-11T19:47:36Z                Carnival Corp
+2017-05-03  MA4B66MW5E27UA4ZDFF                  0.450        0.566   75154            0.544          0.384  2017-05-11T19:47:36Z                Carnival Corp
+2017-05-04  MA4B66MW5E27UA4ZDFF                  0.450        0.558   75154            0.540          0.388  2017-05-11T19:47:36Z                Carnival Corp
+2017-05-05  MA4B66MW5E27UA4ZDFF                  0.450        0.558   75154            0.534          0.408  2017-05-11T19:47:36Z                Carnival Corp
+2017-05-08  MA4B66MW5E27UA4ZDFF                  0.450        0.558   75154            0.534          0.406  2017-05-11T19:47:36Z                Carnival Corp
+2017-05-09  MA4B66MW5E27UA4ZDFF                  0.454        0.558   75154            0.540          0.394  2017-05-11T19:47:36Z                Carnival Corp
+2017-05-10  MA4B66MW5E27UA4ZDFF                  0.454        0.558   75154            0.538          0.400  2017-05-11T19:47:36Z                Carnival Corp
+2017-05-11  MA4B66MW5E27UA4ZDFF                  0.458        0.558   75154            0.548          0.376  2017-05-11T19:47:36Z                Carnival Corp
+2017-05-12  MA4B66MW5E27UA4ZDFF                  0.460        0.558   75154            0.546          0.378  2017-05-12T10:47:27Z                Carnival Corp
+2017-05-15  MA4B66MW5E27UA4ZDFF                  0.458        0.558   75154            0.550          0.366  2017-05-15T08:06:02Z                Carnival Corp
+2017-05-16  MA4B66MW5E27UA4ZDFF                  0.460        0.558   75154            0.552          0.362  2017-05-16T08:05:09Z                Carnival Corp
+2017-05-17  MA4B66MW5E27UA4ZDFF                  0.458        0.556   75154            0.550          0.364  2017-05-17T08:16:33Z                Carnival Corp
+2017-05-18  MA4B66MW5E27UA4ZDFF                  0.456        0.556   75154            0.550          0.360  2017-05-18T08:08:25Z                Carnival Corp
+2017-05-19  MA4B66MW5E27UA4ZDFF                  0.460        0.560   75154            0.546          0.382  2017-05-19T08:04:44Z                Carnival Corp
+2017-05-22  MA4B66MW5E27UA4ZDFF                  0.460        0.560   75154            0.546          0.380  2017-05-22T08:05:30Z                Carnival Corp
+2017-05-23  MA4B66MW5E27UA4ZDFF                  0.460        0.560   75154            0.544          0.384  2017-05-23T08:11:52Z                Carnival Corp
+2017-05-24  MA4B66MW5E27UA4ZDFF                  0.444        0.556   75154            0.540          0.382  2017-05-24T08:05:16Z                Carnival Corp
+2017-05-25  MA4B66MW5E27UA4ZDFF                  0.440        0.556   75154            0.540          0.378  2017-05-25T08:12:41Z                Carnival Corp
+2017-05-26  MA4B66MW5E27UA4ZDFF                  0.438        0.558   75154            0.538          0.384  2017-05-26T08:06:48Z                Carnival Corp
+2017-05-29  MA4B66MW5E27UA4ZDFF                  0.438        0.558   75154            0.536          0.390  2017-05-29T08:05:08Z                Carnival Corp
+2017-05-30  MA4B66MW5E27UA4ZDFF                  0.438        0.558   75154            0.536          0.390  2017-05-30T08:05:54Z                Carnival Corp
+2017-05-31  MA4B66MW5E27UA4ZDFF                  0.440        0.562   75154            0.532          0.404  2017-06-05T09:38:43Z                Carnival Corp
+2017-06-01  MA4B66MW5E27UA4ZDFF                  0.442        0.560   75154            0.530          0.412  2017-06-01T08:05:25Z                Carnival Corp
+2017-06-02  MA4B66MW5E27UA4ZDFF                  0.434        0.568   75154            0.526          0.424  2017-06-02T08:04:43Z                Carnival Corp
+2017-06-05  MA4B66MW5E27UA4ZDFF                  0.436        0.568   75154            0.526          0.428  2017-06-05T08:04:58Z                Carnival Corp
+2017-06-06  MA4B66MW5E27UA4ZDFF                  0.436        0.566   75154            0.526          0.426  2017-06-06T08:05:52Z                Carnival Corp
+2017-06-07  MA4B66MW5E27UA4ZDFF                  0.434        0.566   75154            0.528          0.416  2017-06-07T08:05:46Z                Carnival Corp
+2017-06-08  MA4B66MW5E27UA4ZDFF                  0.434        0.562   75154            0.526          0.418  2017-06-08T08:33:37Z                Carnival Corp
+2017-06-09  MA4B66MW5E27UA4ZDFF                  0.436        0.562   75154            0.526          0.418  2017-06-09T08:05:43Z                Carnival Corp
+2017-06-12  MA4B66MW5E27UA4ZDFF                  0.438        0.560   75154            0.532          0.406  2017-06-12T08:05:22Z                Carnival Corp
+2017-06-13  MA4B66MW5E27UA4ZDFF                  0.436        0.558   75154            0.528          0.408  2017-06-13T08:05:29Z                Carnival Corp
+2017-06-14  MA4B66MW5E27UA4ZDFF                  0.434        0.558   75154            0.528          0.408  2017-06-14T08:04:49Z                Carnival Corp
+2017-06-15  MA4B66MW5E27UA4ZDFF                  0.434        0.558   75154            0.524          0.420  2017-06-15T08:04:51Z                Carnival Corp
+2017-06-16  MA4B66MW5E27UA4ZDFF                  0.434        0.558   75154            0.520          0.434  2017-06-16T08:05:50Z                Carnival Corp
+2017-06-19  MA4B66MW5E27UA4ZDFF                  0.434        0.558   75154            0.520          0.434  2017-06-19T08:04:45Z                Carnival Corp
+2017-06-20  MA4B66MW5E27UA4ZDFF                  0.440        0.572   75154            0.528          0.428  2017-06-20T08:08:35Z                Carnival Corp
+2017-06-21  MA4B66MW5E27UA4ZDFF                  0.440        0.574   75154            0.526          0.434  2017-06-21T08:07:14Z                Carnival Corp
+2017-06-22  MA4B66MW5E27UA4ZDFF                  0.442        0.572   75154            0.520          0.454  2017-06-22T08:05:56Z                Carnival Corp
+2017-06-23  MA4B66MW5E27UA4ZDFF                  0.446        0.574   75154            0.528          0.434  2017-06-23T08:25:02Z                Carnival Corp
+2017-06-26  MA4B66MW5E27UA4ZDFF                  0.452        0.572   75154            0.534          0.422  2017-06-26T08:05:04Z                Carnival Corp
+2017-06-27  MA4B66MW5E27UA4ZDFF                  0.454        0.570   75154            0.538          0.414  2017-06-27T08:06:17Z                Carnival Corp
+2017-06-28  MA4B66MW5E27UA4ZDFF                  0.454        0.570   75154            0.542          0.400  2017-06-28T08:04:52Z                Carnival Corp
+2017-06-29  MA4B66MW5E27UA4ZDFF                  0.454        0.574   75154            0.540          0.408  2017-06-29T08:05:26Z                Carnival Corp
+2017-06-30  MA4B66MW5E27UA4ZDFF                  0.454        0.574   75154            0.544          0.396  2017-06-30T08:05:02Z                Carnival Corp
+2017-01-16  MA4B66MW5E27UACX694                  0.412        0.416  902608            0.424          0.552  2017-05-11T19:47:36Z    Check Point Software Tech
+2017-01-17  MA4B66MW5E27UACX694                  0.414        0.416  902608            0.426          0.552  2017-05-11T19:47:36Z    Check Point Software Tech
+2017-01-18  MA4B66MW5E27UACX694                  0.414        0.414  902608            0.426          0.550  2017-05-11T19:47:36Z    Check Point Software Tech
+2017-01-19  MA4B66MW5E27UACX694                  0.412        0.416  902608            0.432          0.532  2017-05-11T19:47:36Z    Check Point Software Tech
+2017-01-20  MA4B66MW5E27UACX694                  0.466        0.460  902608            0.464          0.534  2017-05-11T19:47:36Z    Check Point Software Tech
+2017-01-23  MA4B66MW5E27UACX694                  0.464        0.460  902608            0.458          0.552  2017-05-11T19:47:36Z    Check Point Software Tech
+2017-01-24  MA4B66MW5E27UACX694                  0.464        0.460  902608            0.456          0.554  2017-05-11T19:47:36Z    Check Point Software Tech
+2017-01-25  MA4B66MW5E27UACX694                  0.468        0.454  902608            0.456          0.552  2017-05-11T19:47:36Z    Check Point Software Tech
+2017-01-26  MA4B66MW5E27UACX694                  0.466        0.452  902608            0.464          0.528  2017-05-11T19:47:36Z    Check Point Software Tech
+2017-01-27  MA4B66MW5E27UACX694                  0.464        0.454  902608            0.460          0.540  2017-05-11T19:47:36Z    Check Point Software Tech
+2017-01-30  MA4B66MW5E27UACX694                  0.466        0.450  902608            0.452          0.560  2017-05-11T19:47:36Z    Check Point Software Tech
+2017-01-31  MA4B66MW5E27UACX694                  0.462        0.448  902608            0.452          0.556  2017-05-11T19:47:36Z    Check Point Software Tech
+2017-02-01  MA4B66MW5E27UACX694                  0.464        0.450  902608            0.454          0.554  2017-05-11T19:47:36Z    Check Point Software Tech
+2017-02-02  MA4B66MW5E27UACX694                  0.464        0.446  902608            0.456          0.544  2017-05-11T19:47:36Z    Check Point Software Tech
+2017-02-03  MA4B66MW5E27UACX694                  0.460        0.448  902608            0.454          0.548  2017-05-11T19:47:36Z    Check Point Software Tech
+2017-02-06  MA4B66MW5E27UACX694                  0.462        0.450  902608            0.452          0.554  2017-05-11T19:47:36Z    Check Point Software Tech
+2017-02-07  MA4B66MW5E27UACX694                  0.458        0.446  902608            0.450          0.556  2017-05-11T19:47:36Z    Check Point Software Tech
+2017-02-08  MA4B66MW5E27UACX694                  0.458        0.448  902608            0.446          0.570  2017-05-11T19:47:36Z    Check Point Software Tech
+2017-02-09  MA4B66MW5E27UACX694                  0.458        0.446  902608            0.448          0.558  2017-05-11T19:47:36Z    Check Point Software Tech
+2017-02-10  MA4B66MW5E27UACX694                  0.458        0.436  902608            0.444          0.562  2017-05-11T19:47:36Z    Check Point Software Tech
+2017-02-13  MA4B66MW5E27UACX694                  0.450        0.438  902608            0.444          0.556  2017-05-11T19:47:36Z    Check Point Software Tech
+2017-02-14  MA4B66MW5E27UACX694                  0.450        0.440  902608            0.444          0.556  2017-05-11T19:47:36Z    Check Point Software Tech
+2017-02-15  MA4B66MW5E27UACX694                  0.450        0.440  902608            0.448          0.546  2017-05-11T19:47:36Z    Check Point Software Tech
+2017-02-16  MA4B66MW5E27UACX694                  0.448        0.444  902608            0.450          0.540  2017-05-11T19:47:36Z    Check Point Software Tech
+2017-02-17  MA4B66MW5E27UACX694                  0.448        0.444  902608            0.450          0.540  2017-05-11T19:47:36Z    Check Point Software Tech
+2017-02-20  MA4B66MW5E27UACX694                  0.450        0.440  902608            0.450          0.542  2017-05-11T19:47:36Z    Check Point Software Tech
+2017-02-21  MA4B66MW5E27UACX694                  0.450        0.440  902608            0.450          0.540  2017-05-11T19:47:36Z    Check Point Software Tech
+2017-02-22  MA4B66MW5E27UACX694                  0.448        0.438  902608            0.450          0.534  2017-05-11T19:47:36Z    Check Point Software Tech
+2017-02-23  MA4B66MW5E27UACX694                  0.450        0.436  902608            0.450          0.536  2017-05-11T19:47:36Z    Check Point Software Tech
+2017-02-24  MA4B66MW5E27UACX694                  0.452        0.434  902608            0.452          0.532  2017-05-11T19:47:36Z    Check Point Software Tech
+2017-02-27  MA4B66MW5E27UACX694                  0.444        0.436  902608            0.450          0.528  2017-05-11T19:47:36Z    Check Point Software Tech
+2017-02-28  MA4B66MW5E27UACX694                  0.444        0.434  902608            0.450          0.526  2017-05-11T19:47:36Z    Check Point Software Tech
+2017-03-01  MA4B66MW5E27UACX694                  0.444        0.432  902608            0.450          0.528  2017-05-11T19:47:36Z    Check Point Software Tech
+2017-03-02  MA4B66MW5E27UACX694                  0.430        0.432  902608            0.448          0.516  2017-05-11T19:47:36Z    Check Point Software Tech
+2017-03-03  MA4B66MW5E27UACX694                  0.434        0.428  902608            0.446          0.524  2017-05-11T19:47:36Z    Check Point Software Tech
+2017-03-06  MA4B66MW5E27UACX694                  0.434        0.424  902608            0.444          0.526  2017-05-11T19:47:36Z    Check Point Software Tech
+2017-03-07  MA4B66MW5E27UACX694                  0.434        0.426  902608            0.446          0.520  2017-05-11T19:47:36Z    Check Point Software Tech
+2017-03-08  MA4B66MW5E27UACX694                  0.432        0.428  902608            0.446          0.524  2017-05-11T19:47:36Z    Check Point Software Tech
+2017-03-09  MA4B66MW5E27UACX694                  0.432        0.428  902608            0.438          0.544  2017-05-11T19:47:36Z    Check Point Software Tech
+2017-03-10  MA4B66MW5E27UACX694                  0.434        0.428  902608            0.444          0.528  2017-05-11T19:47:36Z    Check Point Software Tech
+2017-03-13  MA4B66MW5E27UACX694                  0.430        0.428  902608            0.440          0.540  2017-05-11T19:47:36Z    Check Point Software Tech
+2017-03-14  MA4B66MW5E27UACX694                  0.442        0.426  902608            0.442          0.540  2017-05-11T19:47:36Z    Check Point Software Tech
+2017-03-15  MA4B66MW5E27UACX694                  0.444        0.428  902608            0.446          0.536  2017-05-11T19:47:36Z    Check Point Software Tech
+2017-03-16  MA4B66MW5E27UACX694                  0.444        0.426  902608            0.446          0.534  2017-05-11T19:47:36Z    Check Point Software Tech
+2017-03-17  MA4B66MW5E27UACX694                  0.444        0.426  902608            0.440          0.552  2017-05-11T19:47:36Z    Check Point Software Tech
+2017-03-20  MA4B66MW5E27UACX694                  0.444        0.426  902608            0.442          0.542  2017-05-11T19:47:36Z    Check Point Software Tech
+2017-03-21  MA4B66MW5E27UACX694                  0.444        0.424  902608            0.440          0.548  2017-05-11T19:47:36Z    Check Point Software Tech
+2017-03-22  MA4B66MW5E27UACX694                  0.444        0.424  902608            0.438          0.556  2017-05-11T19:47:36Z    Check Point Software Tech
+2017-03-23  MA4B66MW5E27UACX694                  0.444        0.424  902608            0.432          0.570  2017-05-11T19:47:36Z    Check Point Software Tech
+2017-03-24  MA4B66MW5E27UACX694                  0.442        0.424  902608            0.430          0.574  2017-05-11T19:47:36Z    Check Point Software Tech
+2017-03-27  MA4B66MW5E27UACX694                  0.442        0.424  902608            0.430          0.574  2017-05-11T19:47:36Z    Check Point Software Tech
+2017-03-28  MA4B66MW5E27UACX694                  0.442        0.424  902608            0.430          0.574  2017-05-11T19:47:36Z    Check Point Software Tech
+2017-03-29  MA4B66MW5E27UACX694                  0.442        0.426  902608            0.430          0.576  2017-05-11T19:47:36Z    Check Point Software Tech
+2017-03-30  MA4B66MW5E27UACX694                  0.442        0.426  902608            0.436          0.562  2017-05-11T19:47:36Z    Check Point Software Tech
+2017-03-31  MA4B66MW5E27UACX694                  0.442        0.428  902608            0.436          0.562  2017-05-11T19:47:36Z    Check Point Software Tech
+2017-04-03  MA4B66MW5E27UACX694                  0.442        0.430  902608            0.440          0.552  2017-05-11T19:47:36Z    Check Point Software Tech
+2017-04-04  MA4B66MW5E27UACX694                  0.442        0.430  902608            0.436          0.566  2017-05-11T19:47:36Z    Check Point Software Tech
+2017-04-05  MA4B66MW5E27UACX694                  0.442        0.434  902608            0.438          0.562  2017-05-11T19:47:36Z    Check Point Software Tech
+2017-04-06  MA4B66MW5E27UACX694                  0.436        0.490  902608            0.422          0.658  2017-05-11T19:47:36Z    Check Point Software Tech
+2017-04-07  MA4B66MW5E27UACX694                  0.438        0.492  902608            0.426          0.652  2017-05-11T19:47:36Z    Check Point Software Tech
+2017-04-10  MA4B66MW5E27UACX694                  0.432        0.494  902608            0.422          0.662  2017-05-11T19:47:36Z    Check Point Software Tech
+2017-04-11  MA4B66MW5E27UACX694                  0.432        0.494  902608            0.422          0.660  2017-05-11T19:47:36Z    Check Point Software Tech
+2017-04-12  MA4B66MW5E27UACX694                  0.432        0.492  902608            0.420          0.660  2017-05-11T19:47:36Z    Check Point Software Tech
+2017-04-13  MA4B66MW5E27UACX694                  0.432        0.490  902608            0.416          0.672  2017-05-11T19:47:36Z    Check Point Software Tech
+2017-04-14  MA4B66MW5E27UACX694                  0.432        0.490  902608            0.416          0.676  2017-05-11T19:47:36Z    Check Point Software Tech
+2017-04-17  MA4B66MW5E27UACX694                  0.434        0.492  902608            0.416          0.676  2017-05-11T19:47:36Z    Check Point Software Tech
+2017-04-18  MA4B66MW5E27UACX694                  0.438        0.494  902608            0.422          0.666  2017-05-11T19:47:36Z    Check Point Software Tech
+2017-04-19  MA4B66MW5E27UACX694                  0.432        0.490  902608            0.420          0.662  2017-05-11T19:47:36Z    Check Point Software Tech
+2017-04-20  MA4B66MW5E27UACX694                  0.484        0.400  902608            0.444          0.550  2017-05-11T19:47:36Z    Check Point Software Tech
+2017-04-21  MA4B66MW5E27UACX694                  0.484        0.404  902608            0.450          0.540  2017-05-11T19:47:36Z    Check Point Software Tech
+2017-04-24  MA4B66MW5E27UACX694                  0.486        0.396  902608            0.442          0.554  2017-05-11T19:47:36Z    Check Point Software Tech
+2017-04-25  MA4B66MW5E27UACX694                  0.482        0.398  902608            0.442          0.552  2017-05-11T19:47:36Z    Check Point Software Tech
+2017-04-26  MA4B66MW5E27UACX694                  0.482        0.398  902608            0.438          0.568  2017-05-11T19:47:36Z    Check Point Software Tech
+2017-04-27  MA4B66MW5E27UACX694                  0.482        0.394  902608            0.442          0.554  2017-05-11T19:47:36Z    Check Point Software Tech
+2017-04-28  MA4B66MW5E27UACX694                  0.484        0.390  902608            0.442          0.552  2017-05-11T19:47:36Z    Check Point Software Tech
+2017-05-01  MA4B66MW5E27UACX694                  0.460        0.400  902608            0.438          0.548  2017-05-11T19:47:36Z    Check Point Software Tech
+2017-05-02  MA4B66MW5E27UACX694                  0.456        0.402  902608            0.440          0.540  2017-05-11T19:47:36Z    Check Point Software Tech
+2017-05-03  MA4B66MW5E27UACX694                  0.460        0.404  902608            0.440          0.544  2017-05-11T19:47:36Z    Check Point Software Tech
+2017-05-04  MA4B66MW5E27UACX694                  0.458        0.400  902608            0.436          0.550  2017-05-11T19:47:36Z    Check Point Software Tech
+2017-05-05  MA4B66MW5E27UACX694                  0.446        0.400  902608            0.424          0.576  2017-05-11T19:47:36Z    Check Point Software Tech
+2017-05-08  MA4B66MW5E27UACX694                  0.446        0.402  902608            0.424          0.574  2017-05-11T19:47:36Z    Check Point Software Tech
+2017-05-09  MA4B66MW5E27UACX694                  0.446        0.404  902608            0.424          0.582  2017-05-11T19:47:36Z    Check Point Software Tech
+2017-05-10  MA4B66MW5E27UACX694                  0.446        0.402  902608            0.426          0.570  2017-05-11T19:47:36Z    Check Point Software Tech
+2017-05-11  MA4B66MW5E27UACX694                  0.448        0.398  902608            0.428          0.564  2017-05-11T19:47:36Z    Check Point Software Tech
+2017-05-12  MA4B66MW5E27UACX694                  0.448        0.398  902608            0.428          0.564  2017-05-12T10:47:27Z    Check Point Software Tech
+2017-05-15  MA4B66MW5E27UACX694                  0.442        0.396  902608            0.414          0.592  2017-05-15T08:06:02Z    Check Point Software Tech
+2017-05-16  MA4B66MW5E27UACX694                  0.440        0.396  902608            0.406          0.618  2017-05-16T08:05:09Z    Check Point Software Tech
+2017-05-17  MA4B66MW5E27UACX694                  0.442        0.392  902608            0.406          0.616  2017-05-17T08:16:33Z    Check Point Software Tech
+2017-05-18  MA4B66MW5E27UACX694                  0.442        0.392  902608            0.410          0.604  2017-05-18T08:08:25Z    Check Point Software Tech
+2017-05-19  MA4B66MW5E27UACX694                  0.448        0.396  902608            0.408          0.620  2017-05-19T08:04:44Z    Check Point Software Tech
+2017-05-22  MA4B66MW5E27UACX694                  0.448        0.396  902608            0.412          0.606  2017-05-22T08:05:30Z    Check Point Software Tech
+2017-05-23  MA4B66MW5E27UACX694                  0.446        0.396  902608            0.408          0.618  2017-05-23T08:11:52Z    Check Point Software Tech
+2017-05-24  MA4B66MW5E27UACX694                  0.442        0.392  902608            0.404          0.622  2017-05-24T08:05:16Z    Check Point Software Tech
+2017-05-25  MA4B66MW5E27UACX694                  0.434        0.390  902608            0.400          0.622  2017-05-25T08:12:41Z    Check Point Software Tech
+2017-05-26  MA4B66MW5E27UACX694                  0.432        0.392  902608            0.396          0.634  2017-05-26T08:06:48Z    Check Point Software Tech
+2017-05-29  MA4B66MW5E27UACX694                  0.430        0.390  902608            0.398          0.628  2017-05-29T08:05:08Z    Check Point Software Tech
+2017-05-30  MA4B66MW5E27UACX694                  0.430        0.394  902608            0.398          0.630  2017-05-30T08:05:54Z    Check Point Software Tech
+2017-05-31  MA4B66MW5E27UACX694                  0.430        0.396  902608            0.396          0.638  2017-06-05T09:38:43Z    Check Point Software Tech
+2017-06-01  MA4B66MW5E27UACX694                  0.432        0.396  902608            0.394          0.646  2017-06-01T08:05:25Z    Check Point Software Tech
+2017-06-02  MA4B66MW5E27UACX694                  0.394        0.402  902608            0.384          0.640  2017-06-02T08:04:43Z    Check Point Software Tech
+2017-06-05  MA4B66MW5E27UACX694                  0.392        0.402  902608            0.382          0.648  2017-06-05T08:04:58Z    Check Point Software Tech
+2017-06-06  MA4B66MW5E27UACX694                  0.394        0.402  902608            0.380          0.658  2017-06-06T08:05:52Z    Check Point Software Tech
+2017-06-07  MA4B66MW5E27UACX694                  0.392        0.400  902608            0.376          0.662  2017-06-07T08:05:46Z    Check Point Software Tech
+2017-06-08  MA4B66MW5E27UACX694                  0.390        0.400  902608            0.372          0.678  2017-06-08T08:33:37Z    Check Point Software Tech
+2017-06-09  MA4B66MW5E27UACX694                  0.392        0.402  902608            0.370          0.682  2017-06-09T08:05:43Z    Check Point Software Tech
+2017-06-12  MA4B66MW5E27UACX694                  0.394        0.398  902608            0.388          0.630  2017-06-12T08:05:22Z    Check Point Software Tech
+2017-06-13  MA4B66MW5E27UACX694                  0.390        0.398  902608            0.392          0.612  2017-06-13T08:05:29Z    Check Point Software Tech
+2017-06-14  MA4B66MW5E27UACX694                  0.392        0.398  902608            0.386          0.632  2017-06-14T08:04:49Z    Check Point Software Tech
+2017-06-15  MA4B66MW5E27UACX694                  0.392        0.398  902608            0.386          0.632  2017-06-15T08:04:51Z    Check Point Software Tech
+2017-06-16  MA4B66MW5E27UACX694                  0.392        0.396  902608            0.390          0.616  2017-06-16T08:05:50Z    Check Point Software Tech
+2017-06-19  MA4B66MW5E27UACX694                  0.392        0.396  902608            0.390          0.618  2017-06-19T08:04:45Z    Check Point Software Tech
+2017-06-20  MA4B66MW5E27UACX694                  0.392        0.400  902608            0.388          0.626  2017-06-20T08:08:35Z    Check Point Software Tech
+2017-06-21  MA4B66MW5E27UACX694                  0.390        0.400  902608            0.386          0.632  2017-06-21T08:07:14Z    Check Point Software Tech
+2017-06-22  MA4B66MW5E27UACX694                  0.390        0.400  902608            0.380          0.650  2017-06-22T08:05:56Z    Check Point Software Tech
+2017-06-23  MA4B66MW5E27UACX694                  0.388        0.402  902608            0.376          0.662  2017-06-23T08:25:02Z    Check Point Software Tech
+2017-06-26  MA4B66MW5E27UACX694                  0.388        0.400  902608            0.376          0.660  2017-06-26T08:05:04Z    Check Point Software Tech
+2017-06-27  MA4B66MW5E27UACX694                  0.390        0.400  902608            0.382          0.642  2017-06-27T08:06:17Z    Check Point Software Tech
+2017-06-28  MA4B66MW5E27UACX694                  0.388        0.400  902608            0.384          0.634  2017-06-28T08:04:52Z    Check Point Software Tech
+2017-06-29  MA4B66MW5E27UACX694                  0.388        0.400  902608            0.382          0.642  2017-06-29T08:05:26Z    Check Point Software Tech
+2017-06-30  MA4B66MW5E27UACX694                  0.388        0.400  902608            0.390          0.618  2017-06-30T08:05:02Z    Check Point Software Tech
