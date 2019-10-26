@@ -29,7 +29,7 @@ class Stock:
 	def rename(self, name):
 		self.name = name
 	def add_growth(self, growth_val):
-		self.growth.append(growth_val)
+		self.growth.append(float(growth_val))
 	def add_returns(self, returns_val):
 		self.returns.append(returns_val)
 	def add_multiple(self, multiple_val):
@@ -68,7 +68,10 @@ for i in split_input:
 		if cycle_count % 9 == 3:
 			stocks[stock_index].add_returns(i)
 		if cycle_count % 9 == 4:
-			stocks[stock_index].add_growth(i)
+			try:
+				stocks[stock_index].add_growth(i)
+			except:
+				pass
 		if cycle_count % 9 == 5:
 			stocks[stock_index].add_multiple(i)	
 		if cycle_count % 9 == 6:
@@ -115,28 +118,33 @@ symbols = ["ccl", "ll", "ulta","chkp","mo","crm","RL","NTAP","GIB","MXIM","MA","
 "RCL","CBS.A","PG","ADTN","STX","GRPN","CMCSA","payx","gps","Flex","Flt","jnpr","tsco","bbby","hsy","ODP","GM","CLX","ODP","IPG",
 "APH","PVH", "ROST","PVH", "ADS", "Vmw","ROST","COST","FLIR","DKS","EXPE","KLAC","FSLR","ADS","KO","WMT","INFN","K","GPN","ARW","CNK","ADM",
 "SYMC","CL","KR","ADP","ZNGA","NTAP","DIS","ROST","TAP","INTU","AKAM","MGA","IBM","TJX",
-"KMB","FisV","GLW","WDC","CSOD","RCL","EBAY","GRMN","RL"]
+"KMB","FisV","GLW","WDC","CSOD","EBAY","GRMN","RL"]
 
 j = 0
 for i in stocks:
 	i.symbol = symbols[j]
 	j += 1
-	print(i.name)
-	print(i.symbol)
-	print("Value")
-	print(i.value)
-	"""
-	print("Growth")
-	print(i.growth)
-	print("Returns")
-	print(i.returns)
-	print("Multiple")
-	print(i.multiple)
-	print("Factor")
-	print(i.factor)
-	"""
+	#print(i.name)
+	#print(i.symbol)
+	#print("Value")
+	#print(i.value)
+	
+	# print("Growth")
+	# print(i.growth)
+	# print("Returns")
+	# print(i.returns)
+	# print("Multiple")
+	# print(i.multiple)
+	#print("Factor")
+	#print(i.factor)
+	if(len(i.multiple) != 120): 
+		print("AAAAAAAAAAAAAAAAAAAAAA")
+	if(len(i.returns) != 120): 
+		print("AAAAAAAAAAAAAAAAAAAAAA")	
+		print(i.name)
+		print(symbols[j])
 
-	print("-----------------\n")
+	#print("-----------------\n")
 	"""
 print(str(cycle_count))	
 print(len(symbols))

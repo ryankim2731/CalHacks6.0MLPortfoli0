@@ -16,7 +16,7 @@ symbols = ["ccl", "ll", "ulta","chkp","mo","crm","RL","NTAP","GIB","MXIM","MA","
 "RCL","CBS.A","PG","ADTN","STX","GRPN","CMCSA","payx","gps","Flex","Flt","jnpr","tsco","bbby","hsy","ODP","GM","CLX","ODP","IPG",
 "APH","PVH", "ROST","PVH", "ADS", "Vmw","ROST","COST","FLIR","DKS","EXPE","KLAC","FSLR","ADS","ULTI","KO","WMT","INFN","K","GPN","ARW","CNK","ADM",
 "SYMC","CL","KR","ADP","ZNGA","NTAP","DIS","ROST","TAP","INTU","AKAM","MGA","IBM","TJX",
-"KMB","FisV","GLW","WDC","CSOD","RCL","EBAY","GRMN","RL"]
+"KMB","FisV","GLW","WDC","CSOD","EBAY","GRMN","RL"]
 
 exception_counter = 0
 for i in symbols:
