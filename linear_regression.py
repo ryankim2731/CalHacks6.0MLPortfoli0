@@ -1,32 +1,74 @@
-import tensorflow as tf
+from __future__ import absolute_import, division, print_function, unicode_literals
+import statistics
+import pathlib
 import numpy as np
+import matplotlib.pyplot as plt
 import pandas as pd
+import seaborn as sns
 
-epochs = 10
-learning_rate = 0.2
+import tensorflow as tf
 
-x_train_numpy = np.zeros()
-y_train_numpy = np.zeros()
-x_test_numpy = np.zeros()
-y_test_numpy = np.zeros()
+from tensorflow import keras
+from tensorflow.keras import layers
+
+print(tf.__version__)
+from src import data_refactoring
 
 
-price  = tf.placeholder(float)
-dates = tf.placeholder(int)
-W = tf.Variable(np.random.randn, name = "W")
-b = tf.Variable(np.random.randn, name ="b")
-X_train = tf.convert_to_tensor(x_train_numpy)
-Y_train = tf.convert_to_tensor(y_train_numpy)
-X_test = tf.convert_to_tensor(x_test_numpy)
-Y_test = tf.convert_to_tensor(y_test_numpy)
+def get_stocks(stocks):
+    stock_list = []
+    price_list = []
+    mean_list = []
+    std_list = []
+    for stock in stocks:
+        growth = np.array(stock.growth)
+        returns = np.array(stock.returns)
+        multiple = np.array(stock.multiple)
+        value = np.array(stock.value)
+        matrix_of_stock = np.column_stack((growth, returns, multiple))
+        mean_list.append(np.mean(growth))
+        mean_list.append(np.mean(returns))
+        mean_list.append(np.mean(multiple))
+        mean_list.append(np.mean(value))
+        std_list.append(np.stdev(growth))
+        std_list.append(np.stdev(returns))
+        std_list.append(np.stdev(multiple))
+        std_list.append(np.stdev(value))
+        stock_list.append(matrix_of_stock)
+        price_list.append(value)
+    return stock_list, price_list, mean_list, std_list
 
-moving_average = tf.train.ExponentialMovingAverage(decay = 0.999)
+def normalize(growth, returns, multiple, value, mean, std):
+    index = 0
+    for i in range(mean):
+        if index % 4 == 0:
+            growth[(index / 4) % 1] = (growth[(index / 4) % 1] - mean[i])/std[i]
+        if index % 4 == 1:
+            returns[(index / 4) % 1] = (returns[(index / 4) % 1] - mean[i])/std[i]
+        if index % 4 == 2:
+            multiple[(index / 4) % 1] = (multiple[(index / 4) % 1] - mean[i])/std[i]
+        if index % 4 == 3:
+            value[(index / 4) % 1] = (value[(index / 4) % 1] - mean[i]) / std[i]
+        index +=1
+    return growth, returns, multiple, value
 
-Y = tf.add(tf.mult(W, b), X_train)
+def regression(X , Y):
 
-loss_function = tf.reduce_mean(tf.squared_difference(Y, Y_test))
-optimizer = tf.train.AdamOptimizer().minimize(loss_function)
+    X_total = pd.DataFrame({'growth': X[:, 0]}, {'returns': X[:, 1]}, {'multiple': X[:, 2]})
+    Y_total = pd.DataFrame({'price': Y[:, 0]})
+    model = keras.Sequential([
+        layers.Dense(64, activation='relu', input_shape=[len(X_total.keys())]),
+        layers.Dense(64, activation='relu'),
+        layers.Dense(1)
+    ])
+    optimizer = tf.keras.optimizers.RMSprop(0.001)
+    model.compile(loss='mse',
+                  optimizer=optimizer,
+                  metrics=['mae', 'mse'])
+    model.summary()
 
-with tf.Session as sess:
-    for epoch in range(epochs):
-        
+
+
+
+
+
